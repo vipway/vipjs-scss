@@ -1,0 +1,24 @@
+{
+  "name": "@vips/scss",
+  "version": "0.0.1",
+  "description": "Set of common mixin function variables adaptation schemes for SCSS.",
+  "main": "import.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipway/vips-scss.git"
+  },
+  "keywords": [
+    "scss"
+  ],
+  "author": "jiawei.mao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vipway/vips-scss/issues"
+  },
+  "homepage": "https://github.com/vipway/vips-scssr#readme"
+}
+
